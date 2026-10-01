@@ -1,0 +1,9 @@
+<resources>
+    <color name="ink">#17202A</color>
+    <color name="muted">#6B7280</color>
+    <color name="surface">#F6F7FB</color>
+    <color name="card">#FFFFFF</color>
+    <color name="accent">#2563EB</color>
+    <color name="income">#159570</color>
+    <color name="expense">#D84A4A</color>
+</resources>
